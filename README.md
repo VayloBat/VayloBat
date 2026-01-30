@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 Top Security Projects
-- [💾 Pwn-Writeups](https://github.com/VayloBat) - Deep analysis of buffer overflows and ROP chains.
+- [💾 Pwn-Writeups]([https://github.com/VayloBat](https://github.com/VayloBat/My_pwn_journey/tree/main/tryhackme)) - Deep analysis of buffer overflows and ROP chains.
 - [🛠️ Auto-Fuzzer](https://github.com/VayloBat) - A python-based script for finding basic vulnerabilities.
 
 ---
